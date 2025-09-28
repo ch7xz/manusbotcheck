@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Somelier CP2 - TegaCraft 2.0 + Tegapoing",
+    "antilink": false,
+    "afk": true,
+    "fake": false,
+    "bemvindo": false,
+    "bv": [
+      {
+        "entrou": "Seja bem vindo as trevas",
+        "saiu": null
+      }
+    ],
+    "autoResposta": false,
+    "ausente": []
+  }
+]
